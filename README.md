@@ -1,5 +1,7 @@
 # Mansion
 **Juego Mansion de terror**
+
+
 Bienvenido a un escalofriante juego de terror creado con Python 3.11 y la biblioteca Pygame. Prepárate para sumergirte en una experiencia llena de misterio y suspenso, donde te enfrentarás a tus peores pesadillas. En este juego, te convertirás en un intrépido explorador que controla un dron en un antiguo y tenebroso lugar compuesto por tres habitaciones.
 
 
